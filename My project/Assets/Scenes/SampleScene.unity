@@ -281,8 +281,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 292364791}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1, y: -3.9, z: 0}
-  m_LocalScale: {x: 16.654856, y: 1.3084551, z: 1.043503}
+  m_LocalPosition: {x: 0.0054, y: -4.0476, z: 0}
+  m_LocalScale: {x: 13.922362, y: 1.5389272, z: 1.043503}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -449,8 +449,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1556921754}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1}
-  m_LocalScale: {x: 19.25887, y: 3.2355835, z: 1.1414}
+  m_LocalPosition: {x: -0.0211, y: -0, z: 1}
+  m_LocalScale: {x: 15.833125, y: 3.2632291, z: 1.1414}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -469,6 +469,7 @@ GameObject:
   - component: {fileID: 1854630664}
   - component: {fileID: 1854630663}
   - component: {fileID: 1854630662}
+  - component: {fileID: 1854630667}
   m_Layer: 0
   m_Name: Player_0
   m_TagString: Untagged
@@ -605,11 +606,31 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1854630661}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.89, y: -1.76, z: 0}
-  m_LocalScale: {x: 12.119317, y: 9.793064, z: 1.0671886}
+  m_LocalPosition: {x: -7.8746, y: -2.2889, z: 0}
+  m_LocalScale: {x: 13.740882, y: 10.056499, z: 1.0671886}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 243839216}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1854630667
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1854630661}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6d4b725c38070b848a737bbc6c6afa17, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
