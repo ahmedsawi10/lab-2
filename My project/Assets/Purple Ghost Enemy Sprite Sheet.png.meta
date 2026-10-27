@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: b4e9a642de95ad244b40b87ad0d49ef1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 811
+        width: 282
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9642f76dc7fc408c830554e12ca93
+      internalID: 1382430583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 811
+        width: 243
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25f62d5340d9d4e883e894e1a4035a
+      internalID: -205221767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 812
+        width: 276
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeaf430f2081504d9c0c63934d8db7b
+      internalID: 1282604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 812
+        width: 280
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f21e39f8343f4d94f7a7b478fd64e
+      internalID: -1344929678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 811
+        width: 245
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7cc479e6c62c41ae496dd0074d7ee
+      internalID: 444996667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 560
+        width: 334
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e917d7b422ad43bde9c3e9b5da573
+      internalID: -956252156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 565
+        width: 248
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b6b5901622dfd4e93ca194189d6d22
+      internalID: -220434771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 562
+        width: 301
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f82054d8ad7344a3c00f66c4ba2a2
+      internalID: 1060926199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 562
+        width: 274
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571a7c51da825e4481748ec7730952f
+      internalID: 350145807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 567
+        width: 273
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32f2e67450547478c4dbb35f0e9356
+      internalID: 1101620792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 301
+        width: 290
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a200ccc7ec9b9940a1c394c96c7d590
+      internalID: -2007672242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 305
+        width: 240
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632bc2af6fa1cb49912611e45ff7811
+      internalID: -829068100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 308
+        width: 233
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55346e7c8b3984782a83324e007555
+      internalID: 829359543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 301
+        width: 263
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a5703ff4346c429d61568693acc1d
+      internalID: -2542348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 77
+        width: 281
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 237, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03859f399d9068649b752a4f8299d979
+      internalID: 502218132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 55
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e07e1e2681b84abf7c248b90aca29
+      internalID: -1357514879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 61
+        width: 280
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d386bbf97242d48b7b92d31554e7b0
+      internalID: 1310210618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 55
+        width: 234
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09cbc665694d848bce1ac7e9598548
+      internalID: 2101709146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Ghost Enemy Sprite Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 58
+        width: 283
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccce9004acf1fa41a25788234fffd4b
+      internalID: -1362360469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Purple Ghost Enemy Sprite Sheet_127: 703918383
+      Purple Ghost Enemy Sprite Sheet_37: -1084901821
+      Purple Ghost Enemy Sprite Sheet_62: -732490394
+      Purple Ghost Enemy Sprite Sheet_44: 330263969
+      Purple Ghost Enemy Sprite Sheet_77: -661132744
+      Purple Ghost Enemy Sprite Sheet_50: 1014633506
+      Purple Ghost Enemy Sprite Sheet_39: -2143806978
+      Purple Ghost Enemy Sprite Sheet_55: -2007672242
+      Purple Ghost Enemy Sprite Sheet_52: -1236175028
+      Purple Ghost Enemy Sprite Sheet_59: 474513608
+      Purple Ghost Enemy Sprite Sheet_81: -1925339664
+      Purple Ghost Enemy Sprite Sheet_138: -198633623
+      Purple Ghost Enemy Sprite Sheet_98: 1382123920
+      Purple Ghost Enemy Sprite Sheet_119: -1217503622
+      Purple Ghost Enemy Sprite Sheet_124: -1761908230
+      Purple Ghost Enemy Sprite Sheet_8: 968218998
+      Purple Ghost Enemy Sprite Sheet_36: 1344977953
+      Purple Ghost Enemy Sprite Sheet_54: 2040829262
+      Purple Ghost Enemy Sprite Sheet_125: 890648979
+      Purple Ghost Enemy Sprite Sheet_7: 1153365582
+      Purple Ghost Enemy Sprite Sheet_11: 619371979
+      Purple Ghost Enemy Sprite Sheet_35: 1559015895
+      Purple Ghost Enemy Sprite Sheet_34: 913156754
+      Purple Ghost Enemy Sprite Sheet_21: 350145807
+      Purple Ghost Enemy Sprite Sheet_87: 522033822
+      Purple Ghost Enemy Sprite Sheet_78: -517754654
+      Purple Ghost Enemy Sprite Sheet_104: -951440716
+      Purple Ghost Enemy Sprite Sheet_83: 955504416
+      Purple Ghost Enemy Sprite Sheet_53: -1473761927
+      Purple Ghost Enemy Sprite Sheet_64: -592709721
+      Purple Ghost Enemy Sprite Sheet_71: -796309813
+      Purple Ghost Enemy Sprite Sheet_0: 1382430583
+      Purple Ghost Enemy Sprite Sheet_13: -954731657
+      Purple Ghost Enemy Sprite Sheet_12: 320746621
+      Purple Ghost Enemy Sprite Sheet_45: -340271757
+      Purple Ghost Enemy Sprite Sheet_106: 1661067683
+      Purple Ghost Enemy Sprite Sheet_9: -555009915
+      Purple Ghost Enemy Sprite Sheet_116: 2051822717
+      Purple Ghost Enemy Sprite Sheet_41: -1326972108
+      Purple Ghost Enemy Sprite Sheet_94: -1357514879
+      Purple Ghost Enemy Sprite Sheet_137: -2118890820
+      Purple Ghost Enemy Sprite Sheet_76: -1469667645
+      Purple Ghost Enemy Sprite Sheet_103: -1362360469
+      Purple Ghost Enemy Sprite Sheet_80: -1173662051
+      Purple Ghost Enemy Sprite Sheet_23: 1547617151
+      Purple Ghost Enemy Sprite Sheet_95: 611637941
+      Purple Ghost Enemy Sprite Sheet_134: -1603225621
+      Purple Ghost Enemy Sprite Sheet_133: 1539323540
+      Purple Ghost Enemy Sprite Sheet_57: 829359543
+      Purple Ghost Enemy Sprite Sheet_72: 1396628793
+      Purple Ghost Enemy Sprite Sheet_69: -699625086
+      Purple Ghost Enemy Sprite Sheet_107: 447858263
+      Purple Ghost Enemy Sprite Sheet_68: -214775297
+      Purple Ghost Enemy Sprite Sheet_1: -205221767
+      Purple Ghost Enemy Sprite Sheet_110: -180083070
+      Purple Ghost Enemy Sprite Sheet_58: -960624548
+      Purple Ghost Enemy Sprite Sheet_60: -650996471
+      Purple Ghost Enemy Sprite Sheet_30: -2006179558
+      Purple Ghost Enemy Sprite Sheet_111: -1879635940
+      Purple Ghost Enemy Sprite Sheet_48: -1593683385
+      Purple Ghost Enemy Sprite Sheet_19: 1233935572
+      Purple Ghost Enemy Sprite Sheet_126: -311372321
+      Purple Ghost Enemy Sprite Sheet_56: -829068100
+      Purple Ghost Enemy Sprite Sheet_3: -1964074189
+      Purple Ghost Enemy Sprite Sheet_93: 1982107591
+      Purple Ghost Enemy Sprite Sheet_105: 1459670341
+      Purple Ghost Enemy Sprite Sheet_112: -762975013
+      Purple Ghost Enemy Sprite Sheet_96: -920194030
+      Purple Ghost Enemy Sprite Sheet_29: -1375549481
+      Purple Ghost Enemy Sprite Sheet_43: -1070906518
+      Purple Ghost Enemy Sprite Sheet_61: -2542348
+      Purple Ghost Enemy Sprite Sheet_90: -1601488927
+      Purple Ghost Enemy Sprite Sheet_15: 1632943472
+      Purple Ghost Enemy Sprite Sheet_26: -470238258
+      Purple Ghost Enemy Sprite Sheet_25: -538752380
+      Purple Ghost Enemy Sprite Sheet_38: -1900361838
+      Purple Ghost Enemy Sprite Sheet_66: 1665674710
+      Purple Ghost Enemy Sprite Sheet_121: 1888195494
+      Purple Ghost Enemy Sprite Sheet_117: -1689432717
+      Purple Ghost Enemy Sprite Sheet_65: 1967815001
+      Purple Ghost Enemy Sprite Sheet_2: 1282604455
+      Purple Ghost Enemy Sprite Sheet_114: -2052669141
+      Purple Ghost Enemy Sprite Sheet_97: 1310210618
+      Purple Ghost Enemy Sprite Sheet_5: 444996667
+      Purple Ghost Enemy Sprite Sheet_4: -1344929678
+      Purple Ghost Enemy Sprite Sheet_74: -734256762
+      Purple Ghost Enemy Sprite Sheet_82: -1647228407
+      Purple Ghost Enemy Sprite Sheet_47: 577225767
+      Purple Ghost Enemy Sprite Sheet_31: 170600917
+      Purple Ghost Enemy Sprite Sheet_63: 502218132
+      Purple Ghost Enemy Sprite Sheet_6: 184493307
+      Purple Ghost Enemy Sprite Sheet_101: 800016378
+      Purple Ghost Enemy Sprite Sheet_120: 451905788
+      Purple Ghost Enemy Sprite Sheet_86: 1665685814
+      Purple Ghost Enemy Sprite Sheet_123: -1553909140
+      Purple Ghost Enemy Sprite Sheet_46: 2035389775
+      Purple Ghost Enemy Sprite Sheet_20: -1626051677
+      Purple Ghost Enemy Sprite Sheet_75: -34555536
+      Purple Ghost Enemy Sprite Sheet_16: -220434771
+      Purple Ghost Enemy Sprite Sheet_113: 2055662831
+      Purple Ghost Enemy Sprite Sheet_108: 1388476483
+      Purple Ghost Enemy Sprite Sheet_139: 1485232458
+      Purple Ghost Enemy Sprite Sheet_27: -30373690
+      Purple Ghost Enemy Sprite Sheet_128: 906512591
+      Purple Ghost Enemy Sprite Sheet_22: 1101620792
+      Purple Ghost Enemy Sprite Sheet_131: -1397877202
+      Purple Ghost Enemy Sprite Sheet_100: 1002176659
+      Purple Ghost Enemy Sprite Sheet_102: 2101709146
+      Purple Ghost Enemy Sprite Sheet_85: 56832145
+      Purple Ghost Enemy Sprite Sheet_10: -1439340047
+      Purple Ghost Enemy Sprite Sheet_89: -2035411276
+      Purple Ghost Enemy Sprite Sheet_129: -890487769
+      Purple Ghost Enemy Sprite Sheet_18: -1192689026
+      Purple Ghost Enemy Sprite Sheet_84: 2014151624
+      Purple Ghost Enemy Sprite Sheet_40: -970844152
+      Purple Ghost Enemy Sprite Sheet_42: 1195807774
+      Purple Ghost Enemy Sprite Sheet_99: 2145432300
+      Purple Ghost Enemy Sprite Sheet_109: -498246683
+      Purple Ghost Enemy Sprite Sheet_115: 738848229
+      Purple Ghost Enemy Sprite Sheet_132: 2010575742
+      Purple Ghost Enemy Sprite Sheet_49: -584699398
+      Purple Ghost Enemy Sprite Sheet_88: 848717322
+      Purple Ghost Enemy Sprite Sheet_92: -2015147958
+      Purple Ghost Enemy Sprite Sheet_67: -759745315
+      Purple Ghost Enemy Sprite Sheet_136: 530822587
+      Purple Ghost Enemy Sprite Sheet_70: -1966200840
+      Purple Ghost Enemy Sprite Sheet_33: -953706002
+      Purple Ghost Enemy Sprite Sheet_122: -368021109
+      Purple Ghost Enemy Sprite Sheet_118: 135326429
+      Purple Ghost Enemy Sprite Sheet_32: 1179279398
+      Purple Ghost Enemy Sprite Sheet_130: 295606470
+      Purple Ghost Enemy Sprite Sheet_91: -1176353194
+      Purple Ghost Enemy Sprite Sheet_135: 2085943516
+      Purple Ghost Enemy Sprite Sheet_28: 761284688
+      Purple Ghost Enemy Sprite Sheet_73: 35668097
+      Purple Ghost Enemy Sprite Sheet_17: 1060926199
+      Purple Ghost Enemy Sprite Sheet_51: 267754223
+      Purple Ghost Enemy Sprite Sheet_14: -956252156
+      Purple Ghost Enemy Sprite Sheet_24: 762520811
+      Purple Ghost Enemy Sprite Sheet_79: -1382838966
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
